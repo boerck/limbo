@@ -1,15 +1,3 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.idea
-qemunew
-build
 # Built application files
 *.apk
 *.ap_
@@ -54,13 +42,5 @@ libs/
 /obj/
 /extra/
 /sh.exe.stackdump
-roms
-gradle
-/gradlew
-/gradlew.bat
 
-jnilibs
-limbotest
-/limbo-android-lib/src/main/jni/qemu-patches/qemu-2.10.0.patch
-/limbo-android-lib/src/main/jni/qemu-patches/qemu-2.9.0.patch
-/limbo-android-lib/src/main/jni/qemu-patches/qemu-2.11.0.patch
+jniLibs
